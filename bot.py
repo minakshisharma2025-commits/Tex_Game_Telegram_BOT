@@ -23,7 +23,7 @@ from telegram.ext import (
 # BOT CONFIG
 # =============================================================================
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8530781378:AAET7A6tm7R9C8ToQYBl8-jjtu0L2KaI13E")
 BOT_NAME = "Team Charnos"
 BOT_CREATOR = "@akash8911"
 OWNER_IDS = [7899148519]
